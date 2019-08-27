@@ -14,9 +14,9 @@ As the interviewee, I found it important to be thoughtful with my words. And I d
 
 In the next steps, “capture findings—goals, wishes and insights” and “take a stand with a point-of-view” it helped me to create a list of the top needs I perceived for the interviewee and steps closer to the goal(s). 
 
-I struggled a bit through the ideation/sketches stage. I felt I was being too safe and not producing enough solutions. I need to reinforce that it is okay to allow the off-the-wall ideas to come in which may later be reimagined/modified into feasible solutions
+I struggled a bit through the ideation/sketches stage. I felt I was being too safe and not producing enough solutions. I need to reinforce that it is okay to allow the off-the-wall ideas to come in which may later be reimagined/modified into usable solutions.
 
-Upon sharing my solution ideas with the interviewee, he liked a few of the solutions which were later combined to create a new solution.
+Upon sharing my solution ideas with the interviewee, he liked a few of the solutions which were later combined to create a new solution-- combining an online app with capability to select greeting card details, capture handwritten notes and online payment and delivery service.
 
 https://github.com/eestefan
 

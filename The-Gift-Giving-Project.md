@@ -5,5 +5,5 @@ Yada Yada
 
 
 
-https://github.com/eestefan/Installations-Class.git
+https://github.com/eestefan/CIM-643-Designing-Innovation.git
 
